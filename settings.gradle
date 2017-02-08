@@ -1,1 +1,1 @@
-include ':app', ':mqttv3', ':android.service'
+include ':app', ':android.service'
